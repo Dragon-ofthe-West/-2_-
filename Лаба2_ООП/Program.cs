@@ -1,7 +1,7 @@
 ﻿using System;
 
 // Интерфейс Alive
-public interface Alive
+public interface Aliveлоло
 {
     void makeSound();
     int getAge();
